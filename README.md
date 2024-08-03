@@ -10,7 +10,7 @@
 
 ### Contents
 
-- [Communities](#communities)
+- [Applications](#applications)
 - [Libraries](#libraries)
 - [LoRaWAN Servers](#lorawan-servers)
 - [Master Thesis](#master-thesis)
@@ -21,11 +21,13 @@
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 
+## Applications
 
-## Communities
-
-- [OpenLora](https://openlora.com/forum/)
-- [The Things Network](https://www.thethingsnetwork.org/forum/)
+- [TinyGS](https://tinygs.com/) - TinyGS is an open network of Ground Stations distributed around the world to receive and operate LoRa satellites.
+- [ThingsNetwork](https://www.thethingsnetwork.org/) - We are a global collaborative Internet of Things ecosystem that creates networks, devices and solutions using LoRaWAN®.
+- [OpenLoRa](https://openlora.wisc.edu/) - An open-source, unified platform to evaluate these works and extensible for future researchers to compare against existing works.
+- [Meshtastic](https://meshtastic.org/) - An open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices.
+- [Helium](https://www.helium.com/) - A LoRa-based mesh network that incentivizes connectivity with cryptocurrency.
 
 
 ## Libraries
